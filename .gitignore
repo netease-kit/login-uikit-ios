@@ -1,0 +1,27 @@
+# Xcode
+#
+## Build generated
+build/
+DerivedData/
+
+## Pods generated
+Pods/
+Podfile.lock
+Pods-debug.xcconfig
+Pods-release.xcconfig
+
+## User Schemes
+*.xcscheme
+*.xccheckout
+
+## Build files
+*.o
+*.~bc
+*.dSYM
+*.gcda
+*.gcno
+
+## Other
+*.DS_Store
+*.log
+*.swp
